@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on **[Curated News](https://www.matthewbenchimol.com/home/curated-news/)** and **[TFWP](https://www.matthewbenchimol.com/home/thefreedomwrapperproject/)**
+- 🌱 I’m currently learning SwiftUI and Xcode
+- 👯 I’m looking to collaborate on projects to help STEM beginners from low income families
+- 🤔 I’m looking for contributors to **[TFWP](https://github.com/mdbench/The-Freedom-Wrapper-Project)** source code 
+- 💬 Ask me about my projects, my company, or my research interests
+- 📫 You can reach me on Telegram at [@mdbench](https://t.me/mdbench) or Keybase at [mdbench](https://keybase.io/mdbench)
+- ⚡ Fun fact: I am a **[TFWP](https://github.com/mdbench/The-Freedom-Wrapper-Project/blob/master/Badges/TFWPcontributions.md) contributor.**
+<img alt="TFWPContributor" src="https://raw.githubusercontent.com/mdbench/The-Freedom-Wrapper-Project/master/Badges/officialtfwpandroidcontributorbadge.png" width="150" height="150">
 
 <!--
 **mdbench/mdbench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
