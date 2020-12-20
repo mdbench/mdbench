@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mdbench/mdbench/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Welcome to Matthew Benchimol's Personal Repository
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+A Science and Technology Enthusiast Trying to Change the 🌎.
 ```
+### About Me
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Matthew Benchimol was born and raised in Gainesville, FL. After High School, he attended the University of Central Florida (UCF) and graduated with a Bachelor of Arts in Political Science, Pre-Law and obtained two minors in History and Anthropology. Eventually, he found himself back at UCF to obtain a Master of Arts in Political Science, International Studies. Upon graduation, Matthew commssioned as a 2nd Lieutenant in the U.S. Army Active Duty Component through UCF Reserve Officer Training Corps (ROTC) in May of 2015. Matthew’s research interests are broad. His previous interests were in Latin American politics and political methodology. Broadly, that research examined ways to integrate interdisciplinary approaches to find the nexus between the psycho-social identity in post conflict societies. Matthew’s true passion is as a technologist and data scientist. His hope is to pursue an advanced degree in Science and Technology Policy in order to research ways to get people of low income backgrounds more involved in technological innovation and entrepreneurial business formation. 
 
-### Jekyll Themes
+### Would you like to know more?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdbench/mdbench/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more information about my [business](https://www.matthewbenchimol.com/home/curated-news/), [my projects](https://www.matthewbenchimol.com/home/thefreedomwrapperproject/), or [research priorities](https://www.matthewbenchimol.com/home/research/), please vist my [website](https://matthewbenchimol.com/).
