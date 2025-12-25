@@ -1,6 +1,7 @@
 #!/bin/bash
 ### This script operates under the assumption you are running it as a root user...###
-### ...in conjunction with the Cloudflare service in a directory named scripts###
+### ...in conjunction with the Cloudflare service in a directory named scripts...###
+### ...and you will need jq installed on the host system (i.e. on OpenWRT, opkg install jq)...###
 # Log function to create and update DDNS record succes/failure by date-time group
 LOG_FILE="ddnsupdaterlog.txt"
 TEMP_FILE="ddnsupdaterlog-tmp.txt"
@@ -26,7 +27,7 @@ echo "Current IP is $ip"
 echo "Zoneid is $zoneid"
 
 # Get DNS Record ID
-dnstokenid=$(curl -X GET "https://api.cloudflare.com/client/v4/zones/$zoneid/dns_records?name=$dnsrecord" -H "Authorization: Bearer $cloudflareauthkey" -H "Content-Type: application/json" | jq -r '{"result"}[] >
+dnstokenid=$(curl -X GET "https://api.cloudflare.com/client/v4/zones/$zoneid/dns_records?name=$dnsrecord" -H "Authorization: Bearer $cloudflareauthkey" -H "Content-Type: application/json" | jq -r '{"result"}[] | .[0] | .id')
 echo "DNS Record ID response is: $dnstokenid"
 
 # Create JSON payload
