@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **[Curated News](https://www.matthewbenchimol.com/home/curated-news/)** and **[TFWP](https://www.matthewbenchimol.com/home/thefreedomwrapperproject/)**
-- 🌱 I’m currently learning SwiftUI and Xcode
+- 🔭 I’m currently working on **[Curated News](https://curatednews.xyz)**, **[TFWP](https://thefreedomwrapperproject.com)**, and **[Cydog Browser](https://cydogbrowser.com)**
 - 👯 I’m looking to collaborate on projects to help STEM beginners from low income families
 - 🤔 I’m looking for contributors to **[TFWP](https://github.com/The-Freedom-Wrapper-Project)** source code 
 - 💬 Ask me about my projects, my company, or my research interests
 - 📫 You can reach me at Keybase at [mdbench](https://keybase.io/mdbench)
+- ✨ You can see demos of my latest projects [here](https://demos.matthewbenchimol.com/)
 - ⚡ Fun fact: I am a **[TFWP](https://github.com/mdbench/The-Freedom-Wrapper-Project/blob/master/Badges/TFWPcontributions.md) contributor.**
 <img alt="TFWPContributor" src="https://raw.githubusercontent.com/mdbench/The-Freedom-Wrapper-Project/master/Badges/officialtfwpandroidcontributorbadge.png" width="150" height="150">
 
