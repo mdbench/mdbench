@@ -6,7 +6,7 @@
 - 📫 You can reach me at Keybase at [mdbench](https://keybase.io/mdbench)
 - ✨ You can see demos of my latest projects [here](https://demos.matthewbenchimol.com/)
 - ⚡ Fun fact: I am a **[TFWP](https://github.com/mdbench/The-Freedom-Wrapper-Project/blob/master/Badges/TFWPcontributions.md) contributor.**
-<img alt="TFWPContributor" src="https://raw.githubusercontent.com/mdbench/The-Freedom-Wrapper-Project/master/Badges/officialtfwpandroidcontributorbadge.png" width="150" height="150">
+<img alt="TFWPContributor" src="https://raw.githubusercontent.com/The-Freedom-Wrapper-Project/tfwp/refs/heads/master/Badges/officialtfwpandroidcontributorbadge.png" width="150" height="150">
 
 <!--
 **mdbench/mdbench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
