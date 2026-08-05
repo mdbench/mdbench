@@ -4,7 +4,9 @@
 - 🤔 I’m looking for contributors to **[TFWP](https://github.com/The-Freedom-Wrapper-Project)** source code 
 - 💬 Ask me about my projects, my company, or my research interests
 - 📫 You can reach me at Keybase at [mdbench](https://keybase.io/mdbench)
-- ✨ You can see demos of my latest projects [here](https://demos.matthewbenchimol.com/)
+- ✨ You can see demos of my latest projects [here](https://demos.matthewbenchimol.com/) with specific release guidance below:
+  -  R Package: [Law of the Allfather](https://gist.github.com/mdbench/82bbb0881fe65d1b41e3bb72f194483b)
+      - 👨‍💻 ```install.packages("https://github.com/mdbench/mdbench/releases/download/loa/loaDSE_0.1.0.tar.gz", repos = NULL, type = "source")```
 - ⚡ Fun fact: I am a **[TFWP](https://github.com/mdbench/The-Freedom-Wrapper-Project/blob/master/Badges/TFWPcontributions.md) contributor.**
 <img alt="TFWPContributor" src="https://raw.githubusercontent.com/The-Freedom-Wrapper-Project/tfwp/refs/heads/master/Badges/officialtfwpandroidcontributorbadge.png" width="150" height="150">
 
